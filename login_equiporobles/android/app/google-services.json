@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019615256238",
+    "project_id": "login-equiporobles-d9bfa",
+    "storage_bucket": "login-equiporobles-d9bfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019615256238:android:930e530752a72d986c173f",
+        "android_client_info": {
+          "package_name": "com.example.login_equiporobles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3-Zdlqu6f8UCCvmbO3vbZg0_qvuZlfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
